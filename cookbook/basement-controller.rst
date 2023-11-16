@@ -28,6 +28,9 @@ A slightly modified component is used to monitor the UPS:
 
 Software configuration
 ----------------------
+************
+
+.. code-block:: yaml
 
 substitutions:
   name: "basement-s3"
