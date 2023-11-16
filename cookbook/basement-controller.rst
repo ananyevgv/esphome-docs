@@ -5,7 +5,7 @@ basement-controller
     :description: Instructions for setting up a display in ESPHome to show sensor values from Home Assistant
     :keywords: Display
 
-.. figure:: images/dbasement-v2.jpg
+.. figure:: images/basement-v2.jpg
     :align: left
     :width: 75.0%
 
