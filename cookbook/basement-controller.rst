@@ -25,7 +25,7 @@ Animated display of statuses on the dss1322 display
 
 A slightly modified component is used to monitor the UPS:
 
-
+https://github.com/ananyevgv/basement-controller/blob/main/basement-s3.yaml
 
 See Also
 --------
