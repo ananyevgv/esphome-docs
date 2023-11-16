@@ -29,20 +29,6 @@ A slightly modified component is used to monitor the UPS:
 Software configuration
 ----------------------
 
-# dss1322 Pin1 = GND, Pin2 = Vcc, Pin4 = SCLK, Pin5 = MOSI, Pin14 = DC, Pin15 = RST,
-
-###################################################################
-##                      WEMOS S3 mini                            ##
-##  |EN|       | 1|          |#|     |33|          |43| tuart    ##
-##  | 2|       | 3| ADC      |#|     |37|          |44| ruart    ##
-##  | 4| reset | 5| SWpeltye |#|     |38|          |36| scl      ##
-##  |12| clk   | 6| SWvent   |#|     |34|          |35| sca      ##
-##  |13| ds    | 7| SWopen   |#|     |21|          |18| AM2302   ##
-##  |11| mosi  | 8| SWclose  |#|     |17|          |16| BiWater  ##
-##  |10| CS    | 9| Buzzer   |#|     |GN|          |GN|          ## 
-##  |3V|       |14|          |#|     |15| led      |5V|          ##
-###################################################################
-
 substitutions:
   name: "basement-s3"
   lastname: APC
